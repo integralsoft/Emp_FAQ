@@ -1,0 +1,61 @@
+---
+title: "FAQ"
+output:
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
+    code_folding: hide
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+options(scipen = 999)
+knitr::opts_chunk$set(
+	echo = TRUE,
+	warning = FALSE,
+	message = FALSE,
+	fig.width = 12
+)
+```
+
+```{r set-options, echo=FALSE, cache=FALSE}
+options(width = 800)
+#opts_chunk$set(tidy = F)
+#blogify
+```
+
+
+
+***
+
+### FAQ
+This FAQ ...
+***
+
+## Accounts
+
+#### I can't see my organizer's info
+This could be due to your having multiple accounts, one that you created with your phone number, and another with your email address, each with different permissions. 
+
+### Regions
+
+#### Why can't I see my regions?
+fks;jfkd; kl;ds fks;f jk;f sk;fs;kf
+
+### Call To Action (CTA)
+
+#### How can I change my question in the CTA?
+To change a CTA, you must delete the CTA and create a new one
+
+#### I can't ....
+Filtering will be added soon to the app
+
+
+<br/><br/><br/>
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+---
+title: ""
+output:
+  html_document:
+    toc: FALSE
+    toc_float: TRUE
+editor_options: 
+  chunk_output_type: console
+---
+
+
+```{r set-options, echo=FALSE, cache=FALSE}
+options(width = 800)
+#opts_chunk$set(tidy = F)
+#blogify
+```
+
+<br><br>
+
+**How can I change my question in the CTA?**  
+To change a CTA, you must delete the CTA and create a new one.
+
+**I'd like to send out a CTA only for my new Volunteers**  
+A soon-to-be implemented Filter feature will enable you to send out a CTA for Volunteers added between 2 dates.
+
+
+
+
+
+

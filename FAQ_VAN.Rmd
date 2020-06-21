@@ -1,0 +1,21 @@
+---
+title: ""
+output:
+  html_document:
+    toc: FALSE
+    toc_float: TRUE
+editor_options: 
+  chunk_output_type: console
+---
+
+<br><br>
+
+**I'd like to prioritize my contacts based on a VAN search tag**  
+This feature will be implemented soon as part of the new Filter mechanism. 
+
+
+
+
+
+
+

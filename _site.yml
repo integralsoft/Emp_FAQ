@@ -1,0 +1,15 @@
+name: "Empower FAQ"
+output_dir: "."
+navbar:
+  title: "FAQ and Features"
+  left:
+  - text: "Accounts"
+    href: FAQ_Accounts.html
+  - text: "Regions"
+    href: FAQ_Regions.html
+  - text: "Call To Action"
+    href: FAQ_CallToAction.html  
+output:
+  html_document:
+    theme: cosmo
+

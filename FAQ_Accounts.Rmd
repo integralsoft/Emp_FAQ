@@ -1,0 +1,21 @@
+---
+title: ""
+output:
+  html_document:
+    toc: FALSE
+    toc_float: TRUE
+editor_options: 
+  chunk_output_type: console
+---
+
+<br><br>
+
+**I can't see my organizer's info**  
+This could be due to your having multiple accounts, one that you created with your phone number, and another with your email address, each with different permissions. 
+
+
+
+
+
+
+
